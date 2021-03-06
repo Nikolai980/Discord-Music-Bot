@@ -60,4 +60,4 @@ client.on("message", message => {
 
 
 //DONT DO ANYTHING WITH THIS TOKEN lol
-client.login(TOKEN)
+client.login(Nzc4Njk4NDQ2NzIyMDM5ODE5.X7VxcQ.DnOZ9pBU6nm_K56hHQBFE-8D7O8)
